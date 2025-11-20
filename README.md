@@ -3,14 +3,10 @@
 To analyse the stability of the system having open loop transfer function, G(S)=1/(S(1+0.5S)(1+0.1S)) using bode plot and verify it using MATLAB. 
 ## Apparatus Required:
 Computer with MATLAB software
-
 ## Theory:
 ![WhatsApp Image 2025-11-19 at 8 56 49 PM](https://github.com/user-attachments/assets/624ee900-ca11-4884-84ce-4f4a9490c7a2)
 ![WhatsApp Image 2025-11-19 at 8 56 50 PM](https://github.com/user-attachments/assets/b7f339f3-35f3-49b3-ad5d-f53e600ad6a4)
 ![WhatsApp Image 2025-11-19 at 8 56 50 PM (1)](https://github.com/user-attachments/assets/0fc427f5-850b-4487-ba08-e8d24311c676)
-
-
-
 ## Procedure:
 	Open MATLAB software
 	Open a new script file.
@@ -46,4 +42,4 @@ Gain margin =12 dB <br>
 Phase Margin = 60 degree<br>
 Gain crossover frequency =0.9070 rad/s. <br>
 Phase crossover frequency =4.4721. <br>
-The system is  stable.
+The system is  stable
